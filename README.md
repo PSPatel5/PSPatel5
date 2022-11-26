@@ -1,6 +1,6 @@
 
 
-<h2>Hey 👋, I'm <a href="https://pspatel.tech/">Parth</a></h2>
+<h2>Hey 👋, I'm <a href="https://parth-patel.in/">Parth</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.coditas.com/">Coditas</a></strong> based in Pune, India.</p>
 
 ### 👨🏻‍💻 &nbsp;About Me</h2>
