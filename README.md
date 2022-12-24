@@ -14,7 +14,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.parth-patel.in"><img src="https://img.shields.io/badge/-pspatel.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.parth-patel.in"><img src="https://img.shields.io/badge/Parth Patel-4285F4?style=flat&logo=GoogleChrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/pspatel1068"><img src="https://img.shields.io/badge/-Parth Patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pspatel1068@gmail.com"><img src="https://img.shields.io/badge/-pspatel1068-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/pspatel_"><img src="https://img.shields.io/badge/-@pspatel__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
